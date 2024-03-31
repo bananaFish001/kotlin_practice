@@ -1,4 +1,5 @@
 fun main() {
-    var userName: String = "John "
+    var userName = "John "
+    userName = "Alex"
     println("Hello $userName")
 }
